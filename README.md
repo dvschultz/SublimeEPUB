@@ -1,2 +1,2 @@
 # SublimeEPUB
-an EPUB Package for Sublime Text
+an EPUB tools package for Sublime Text
